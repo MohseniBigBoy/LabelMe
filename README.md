@@ -4,7 +4,7 @@ Image Labeling, Edit and Review Results
    LabelMe is a application to labeling, reviewing and editing image datasets.
    This application has two section, "CROP ROI" to labeling images and "REVIEW&EDIT" to reviewing results.
    
-> To run the code you just install **Qt5**.
+> To run the code you just install [**Qt5**](https://wiki.qt.io/Install_Qt_5_on_Ubuntu "Install Qt 5 on Ubuntu").
 
 LabelMe Manual:
   To add new ROI on image, first drew an ROI then type the abbreviation name of class that you have already defined it, then press the Enter key.
