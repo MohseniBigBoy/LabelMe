@@ -8,7 +8,7 @@
 
 Usage:
 
- - To add new ROI on image, first drew an ROI then type the abbreviation name of class that you have already defined it, then press the Enter key.
+ - To add new ROI on image, first drew an ROI then insert the abbreviation name of class that you have already defined it, then press the Enter key.
 
 Note that:
   - It is not necessary to type the abbreviation name if you have only one class.
