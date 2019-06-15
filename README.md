@@ -4,10 +4,10 @@ Image Labeling, Edit and Review Results
    LabelMe is a application to labeling, reviewing and editing image datasets.
    This application has two section, "CROP ROI" to labeling images and "REVIEW&EDIT" to reviewing results.
    
-To run the code you just install #QT5.
+To run the code you just install **Qt5**.
 
 LabelMe Manual:
-  To add new ROI on image, first drew an ROI then type the abbreviation name of class that you have already defined it, then push the Enter key.
+  To add new ROI on image, first drew an ROI then type the abbreviation name of class that you have already defined it, then press the Enter key.
   It is not necessary to type the abbreviation name if you have only one class.
   If drawned ROI was out of image, it is modified to image boundary automatically.
   If everything was correct you show result on image and you can submit it else you must correct the mistake.
@@ -21,7 +21,7 @@ LabelMe Manual:
   When you have many classes, you can write class names in a text file and use it next times. Note that every line must begin with "#class_names:" like below:
 
 #class_names: [class full name] [abbreviation name] [color code (optional)]
-(for example: #class_names: body b #ff007f)
+(for example: **#class_names: body b #ff007f**)
 
 Also you can use the store text file to upload as class names file.
 
