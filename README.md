@@ -1,7 +1,7 @@
 # LabelMe
 
-   *LabelMe* is a application to labeling, reviewing and editing image datasets.
-   This application has two section, **"CROP ROI"** to labeling images and **"REVIEW&EDIT"** to reviewing results.
+   *LabelMe* is a application to annotation, review and edit image datasets.
+   This application has two section, **"CROP ROI"** to annotation images and **"REVIEW&EDIT"** to review results.
    
  Requirements:  
 - Just install [**Qt5**](https://wiki.qt.io/Install_Qt_5_on_Ubuntu "Install Qt 5 on Ubuntu").
