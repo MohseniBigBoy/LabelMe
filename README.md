@@ -19,7 +19,7 @@ LabelMe Manual:
   When you have many classes, you can write class names in a text file and use it next times. Note that every line must begin with "#class_names:" like below:
 
 #class_names: [class full name] [abbreviation name] [color code (optional)]
-#class_names: body b #ff007f
+(for example: #class_names: body b #ff007f)
 
 Also you can use the store text file to upload as class names file.
 
