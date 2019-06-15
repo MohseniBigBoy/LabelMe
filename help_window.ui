@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>help_window</class>
+ <widget class="QStackedWidget" name="help_window">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>578</width>
+    <height>424</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>StackedWidget</string>
+  </property>
+  <property name="currentIndex">
+   <number>1</number>
+  </property>
+  <widget class="QWidget" name="page_2">
+   <layout class="QGridLayout" name="gridLayout_3">
+    <item row="0" column="0">
+     <widget class="QTextBrowser" name="textBrowser_main_win">
+      <property name="html">
+       <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:14pt; font-weight:600; color:#000000;&quot;&gt;LabelMe&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'monospace'; font-size:12pt; font-weight:600; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'monospace'; font-size:12pt; font-weight:600; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;   &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:11pt; font-weight:600; color:#000000;&quot;&gt;LabelMe&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; is a application to labeling image datasets.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;   This application has two section, &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; font-style:italic; color:#000000;&quot;&gt;&amp;quot;CROP ROI&amp;quot;&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; to labeling images and &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; font-style:italic; color:#000000;&quot;&gt;&amp;quot;REVIEW&amp;amp;EDIT&amp;quot;&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; to review results.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:8pt; color:#000000;&quot;&gt;  &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'monospace'; font-size:8pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace';&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:8pt;&quot;&gt; Copyright (C) The Electronics Research Institute at Sharif University of Technology (SUT) - All Rights Reserved&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:8pt;&quot;&gt;  Unauthorized copying of this file, via any medium is strictly prohibited&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:8pt;&quot;&gt;  Proprietary and confidential&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:8pt;&quot;&gt;  Written by H.Mohseni &amp;lt;&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:8pt; font-style:italic; color:#000000;&quot;&gt;ee&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:8pt; font-weight:600; font-style:italic; color:#000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:8pt; font-style:italic; color:#000000;&quot;&gt;mohseni&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:8pt; font-weight:600; font-style:italic; color:#000000;&quot;&gt;@&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:8pt; font-style:italic; color:#000000;&quot;&gt;gmail&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:8pt; font-weight:600; font-style:italic; color:#000000;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:8pt; font-style:italic; color:#000000;&quot;&gt;com&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:8pt;&quot;&gt;&amp;gt;, September &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:8pt; color:#000000;&quot;&gt;2017&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="0">
+     <widget class="Line" name="line_1">
+      <property name="orientation">
+       <enum>Qt::Horizontal</enum>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="0">
+     <layout class="QHBoxLayout" name="horizontalLayout_2">
+      <item>
+       <spacer name="horizontalSpacer_3">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>40</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item>
+       <widget class="QPushButton" name="next_page">
+        <property name="text">
+         <string>Next Page</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <spacer name="horizontalSpacer_4">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>40</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="page">
+   <layout class="QGridLayout" name="gridLayout_2">
+    <item row="0" column="0">
+     <widget class="QTextBrowser" name="textBrowser_work_win">
+      <property name="html">
+       <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;justify&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:12pt; font-weight:600; color:#000000;&quot;&gt;LabelMe Manual&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;  To add&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt; new ROI &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;on image, first &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;drew&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; an ROI then &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;type the abbreviation name&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; of class that y&lt;/span&gt;ou have already defined it&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;, then push the&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt; Enter&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; key.&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;  It is not necessary to type the abbreviation name if you have only one class.&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;  If drawned ROI was out of image, it is modified to image boundary automatically.&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;  If everything was correct you show result on image and you can submit it else you must correct the mistake.&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;  You can use the &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;undo&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; and &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;redo&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; keys.&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;  In &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;Review&amp;amp;Edit&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; mode for &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;delete&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; an ROI just &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;double-click&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; inside the area.&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;  To drew an ROI In &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;rectangle &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;(default) mode, &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;press&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; the left&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;mouse button at one corner of the box, &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;hold&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; the button down and &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;move&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; the mouse to the desired position of the other corner and &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;release&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;  To drew an ROI In &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;polygon&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; mode, first &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;click&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; on desired point as beginning point, then &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;press&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; and &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;hold&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; down and &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;move&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; the mouse to drew a line of polygon, the &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;release&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; it, do this until complete the polygon.&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;  In the same imgae you can drew &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;rectangle &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;and&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt; polygon &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;ROIs &lt;/span&gt;simultaneously.&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;  You can &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;zoom&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; on image by &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;mouse scroll&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;  If you close LabelMe before label all of the images, in &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;CROP ROI&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; mode, next time to countinue  from last state, at &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;Login Window&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; just select the previous result text file as store text file. In &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;REVIEW&amp;amp;EDIT&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; mode you can use from &lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; font-style:italic; color:#000000;&quot;&gt;image name Line Edite&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt; section on top left of image view.&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;  When you have many classes, you can write class names in a text file and use it next times. Note that every line must begin&lt;/span&gt; with &amp;quot;#class_names:&amp;quot; like below:&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;#class_names:&lt;/span&gt;&lt;span style=&quot; font-weight:600; font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;[class full name] [&lt;/span&gt;&lt;span style=&quot; font-family:'monospace'; font-size:10pt; color:#000000;&quot;&gt;abbreviation name&lt;/span&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;] [color code (optional)]&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; font-style:italic;&quot;&gt;#class_names: body b #ff007f&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-weight:600; font-style:italic;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Also you can use the store text file to upload as class names file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="0">
+     <widget class="Line" name="line">
+      <property name="orientation">
+       <enum>Qt::Horizontal</enum>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="0">
+     <layout class="QHBoxLayout" name="horizontalLayout_1">
+      <item>
+       <spacer name="horizontalSpacer_1">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>40</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item>
+       <widget class="QPushButton" name="prev_page">
+        <property name="text">
+         <string>Previous Page</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <spacer name="horizontalSpacer_2">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>40</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
