@@ -1,6 +1,6 @@
 # LabelMe
 
-   *LabelMe* is a application to annotation, review and edit image datasets.
+   *LabelMe* is an application to annotation, review and edit image datasets.
    This application has two section, **"CROP ROI"** to annotation images and **"REVIEW&EDIT"** to review results.
    
  Requirements:  
